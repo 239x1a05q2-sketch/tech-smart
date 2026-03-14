@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Mathematics — Easy Test",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "syllabus": "trignometry,caculus,algebra",
+    "numQuestions": 10,
+    "questions": [
+      {
+        "question": "What is the definition of a variable in algebra?",
+        "options": [
+          "A symbol used to represent a number",
+          "A constant value in a mathematical expression",
+          "A mathematical operation",
+          "A geometric shape"
+        ],
+        "correct_answer": "A symbol used to represent a number"
+      },
+      {
+        "question": "What is the value of sin(30 degrees) in trigonometry?",
+        "options": [
+          "0.5",
+          "1",
+          "0.7",
+          "0.9"
+        ],
+        "correct_answer": "0.5"
+      },
+      {
+        "question": "What is the definition of a limit in calculus?",
+        "options": [
+          "A value that a function approaches as the input values get arbitrarily close to a certain point",
+          "A specific point on the graph of a function",
+          "A type of mathematical operation",
+          "A geometric shape"
+        ],
+        "correct_answer": "A value that a function approaches as the input values get arbitrarily close to a certain point"
+      },
+      {
+        "question": "What is the formula for the area of a circle?",
+        "options": [
+          "A = πr^2",
+          "A = 2πr",
+          "A = πd",
+          "A = 2"
+        ],
+        "correct_answer": "A = πr^2"
+      },
+      {
+        "question": "What is the value of x in the equation 2x + 5 = 11?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct_answer": "3"
+      },
+      {
+        "question": "What is the definition of sine in trigonometry?",
+        "options": [
+          "The ratio of the opposite side to the hypotenuse in a right triangle",
+          "The ratio of the adjacent side to the hypotenuse in a right triangle",
+          "The ratio of the hypotenuse to the opposite side in a right triangle",
+          "The ratio of the hypotenuse to the adjacent side in a right triangle"
+        ],
+        "correct_answer": "The ratio of the opposite side to the hypotenuse in a right triangle"
+      },
+      {
+        "question": "What is the formula for the derivative of x^2?",
+        "options": [
+          "d(x^2)/dx = 2x",
+          "d(x^2)/dx = x^2",
+          "d(x^2)/dx = 1",
+          "d(x^2)/dx = 0"
+        ],
+        "correct_answer": "d(x^2)/dx = 2x"
+      },
+      {
+        "question": "What is the value of y in the equation y - 3 = 7?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correct_answer": "7"
+      },
+      {
+        "question": "What is the definition of a function in algebra?",
+        "options": [
+          "A relation between a set of inputs and a set of possible outputs",
+          "A specific type of geometric shape",
+          "A mathematical operation",
+          "A constant value"
+        ],
+        "correct_answer": "A relation between a set of inputs and a set of possible outputs"
+      },
+      {
+        "question": "What is the value of cos(60 degrees) in trigonometry?",
+        "options": [
+          "0.5",
+          "0.7",
+          "0.9",
+          "1"
+        ],
+        "correct_answer": "0.5"
+      }
+    ],
+    "createdAt": "2026-03-14T03:16:46.712Z",
+    "id": "5fdbb4e5-8eab-4c2d-825f-55c83ef91457",
+    "_id": "99bb20b9-e34a-47f8-a239-48de263c26f3"
+  },
+  {
+    "title": "Mathematics — Medium Test",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "syllabus": "trignometry,statistics,algebra",
+    "numQuestions": 10,
+    "questions": [
+      {
+        "question": "In a right-angled triangle, the length of the hypotenuse is 10 cm and one of the other sides is 6 cm. What is the length of the other side?",
+        "options": [
+          "4 cm",
+          "6 cm",
+          "8 cm",
+          "12 cm"
+        ],
+        "correct_answer": "8 cm"
+      },
+      {
+        "question": "A set of exam scores has a mean of 70 and a standard deviation of 10. What is the z-score of a score of 75?",
+        "options": [
+          "0.5",
+          "1",
+          "1.5",
+          "2"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "question": "Solve for x in the equation 2x^2 + 5x - 3 = 0.",
+        "options": [
+          "-1",
+          "-3/2",
+          "1/2",
+          "3"
+        ],
+        "correct_answer": "-3/2"
+      },
+      {
+        "question": "If the area of a triangle is 24 square cm and its base is 8 cm, what is the height of the triangle?",
+        "options": [
+          "2 cm",
+          "3 cm",
+          "4 cm",
+          "6 cm"
+        ],
+        "correct_answer": "3 cm"
+      },
+      {
+        "question": "A company produces x units of a product per hour. If it produces 240 units in 4 hours, how many units does it produce in 2 hours?",
+        "options": [
+          "60 units",
+          "80 units",
+          "100 units",
+          "120 units"
+        ],
+        "correct_answer": "80 units"
+      },
+      {
+        "question": "Find the value of x in the equation x/4 + 2 = 7.",
+        "options": [
+          "20",
+          "22",
+          "24",
+          "26"
+        ],
+        "correct_answer": "24"
+      },
+      {
+        "question": "The mean of a set of numbers is 15 and the median is 10. What is the mode of the set?",
+        "options": [
+          "10",
+          "12",
+          "15",
+          "20"
+        ],
+        "correct_answer": "10"
+      },
+      {
+        "question": "Solve the inequality 2x - 5 > 9.",
+        "options": [
+          "x > 7",
+          "x > 6",
+          "x > 4",
+          "x > 1"
+        ],
+        "correct_answer": "x > 7"
+      },
+      {
+        "question": "In a survey, 60% of the participants preferred a particular brand of coffee. If 120 people participated in the survey, how many preferred the particular brand?",
+        "options": [
+          "60 people",
+          "72 people",
+          "80 people",
+          "90 people"
+        ],
+        "correct_answer": "72 people"
+      },
+      {
+        "question": "Solve for y in the equation y - 2 = 11.",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correct_answer": "13"
+      }
+    ],
+    "createdAt": "2026-03-14T03:14:16.403Z",
+    "id": "8af961a6-16ed-4110-9849-0d0726de8fde",
+    "_id": "cedd7bac-1e5e-4ab8-b4f2-b65a3581b923"
+  },
+  {
+    "title": "Python — Easy Test",
+    "subject": "Python",
+    "difficulty": "Easy",
+    "syllabus": "Python basics: variables, loops, functions, lists, dictionaries, classes",
+    "numQuestions": 5,
+    "questions": [
+      {
+        "question": "What is the purpose of a variable in Python?",
+        "options": [
+          "To store a function",
+          "To store a value",
+          "To store a list",
+          "To store a dictionary"
+        ],
+        "correct_answer": "To store a value"
+      },
+      {
+        "question": "Which Python data structure is ordered and can store a collection of items?",
+        "options": [
+          "Dictionary",
+          "List",
+          "Set",
+          "Tuple"
+        ],
+        "correct_answer": "List"
+      },
+      {
+        "question": "What is the name of the Python function that prints output to the screen?",
+        "options": [
+          "print()",
+          "input()",
+          "len()",
+          "type()"
+        ],
+        "correct_answer": "print()"
+      },
+      {
+        "question": "What is the purpose of a loop in Python?",
+        "options": [
+          "To store a value",
+          "To store a list",
+          "To repeat a sequence of instructions",
+          "To store a dictionary"
+        ],
+        "correct_answer": "To repeat a sequence of instructions"
+      },
+      {
+        "question": "What is the data type of a collection of items in Python that are ordered and can be changed?",
+        "options": [
+          "Set",
+          "Tuple",
+          "Dictionary",
+          "List"
+        ],
+        "correct_answer": "List"
+      }
+    ],
+    "createdAt": "2026-03-14T03:12:46.633Z",
+    "id": "4006df89-30c1-4980-a807-8ea78c9de6b0",
+    "_id": "ed89dbfa-d8d6-4076-b639-35494cd6e766"
+  }
+]
